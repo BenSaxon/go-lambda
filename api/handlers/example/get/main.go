@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/akrylysov/algnhsa"
-	"github.com/go-lambda/api/handlers/example/example"
+	"github.com/go-lambda/api/handlers/example"
 	"github.com/joerdav/zapray"
 )
 

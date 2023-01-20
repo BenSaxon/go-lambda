@@ -5,7 +5,7 @@ import (
 	"net/http"
 
 	"github.com/a-h/pathvars"
-	"github.com/aviva-verde/offer-api/api/respond"
+	"github.com/go-lambda/api/respond"
 	"github.com/joerdav/zapray"
 	"go.uber.org/zap"
 )

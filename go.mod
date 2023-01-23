@@ -6,6 +6,7 @@ require (
 	github.com/a-h/pathvars v0.0.0-20200320143331-78b263b728e2
 	github.com/akrylysov/algnhsa v0.12.1
 	github.com/google/go-cmp v0.5.9
+	github.com/gorilla/mux v1.8.0
 	github.com/joerdav/zapray v0.0.27
 	go.uber.org/zap v1.24.0
 )
